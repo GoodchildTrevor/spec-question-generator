@@ -1,7 +1,8 @@
-# auto-spec-questions
+# spec-question-generator
 Generation of questions based on your own documents using Ollama models.
 
 ## Schema
+```
 .
 ├── main.py                 # Main entry point of the application
 ├── config.py               # Global configuration parameters (model settings, paths, etc.)
@@ -10,6 +11,7 @@ Generation of questions based on your own documents using Ollama models.
 └── llm/                    # Modules for working with LLM via Ollama
     ├── ollama_configs.py   # Configuration for Ollama connection (host, model, timeout)
     └── ollama_inference.py # Logic for sending prompts and processing responses
+```
 
 ## Essential Programs
 
