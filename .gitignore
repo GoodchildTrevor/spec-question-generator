@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code and other IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Git-related
+*.orig
+
+# Model checkpoints or local config
+*.ckpt
+*.yaml
+*.yml
+*.log
+*.env
+
+# Text recognition output
+*.doc
+
+# If you use ollama locally with models
+*.bin
+*.gguf

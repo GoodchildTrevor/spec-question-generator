@@ -1,0 +1,8 @@
+aspose-words==25.7.0
+docx2python==3.5.0
+llama-index-core==0.12.24.post1
+llama-index-llms-ollama==0.5.3
+pillow==11.1.0
+python-dotenv==0.21.0
+PyMuPDF==1.26.1
+pytesseract==0.3.13
