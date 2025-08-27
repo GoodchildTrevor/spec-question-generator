@@ -2,7 +2,7 @@ import asyncio
 import re
 from logging import Logger
 
-from spec_question_generator.config import SYSTEM_PROMPT
+from config import SYSTEM_PROMPT
 from llm.ollama_configs import (
     FixedOllama,
     PROMPT_TEMPLATE,
